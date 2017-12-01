@@ -8,8 +8,6 @@
   },
   "license": "BSD-3-Clause",
   "engines": {
-    "node": "8.1.4",
-    "npm": "5.3.0"
   },
   "scripts": {
     "prestart": "npm run mongo:start",
