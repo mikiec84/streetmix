@@ -82,7 +82,7 @@
     "js-cookie": "2.2.0",
     "kerberos": "0.0.23",
     "leaflet": "1.2.0",
-    "lodash": "4.17.4",
+    "lodash": "4.17.13",
     "moment": "2.19.2",
     "mongoose": "4.13.5",
     "newrelic": "2.4.0",
