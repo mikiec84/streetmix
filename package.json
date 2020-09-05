@@ -87,7 +87,7 @@
     "mongoose": "4.13.5",
     "newrelic": "2.4.0",
     "node-env-file": "0.1.8",
-    "node-sass": "4.7.2",
+    "node-sass": "4.13.1",
     "oauth": "0.9.15",
     "postcss": "6.0.14",
     "postcss-import": "11.0.0",
